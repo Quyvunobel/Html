@@ -1,0 +1,47 @@
+html
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiCV73zc_Lzp3mXwVap3z9eEETyZOFFh7I2Q&usqp=CAU); 
+    background-size: 100%;
+}
+    /* background-color: #33CCFF; */
+#quy0
+{
+    color: #e6ff08;
+    font-size: 110px;
+    position:absolute; 
+    left:58%; top:10%;
+}
+#quy1
+{
+    color: #e91919;
+    font-size: 215%;
+    position: absolute;
+    left:63%; top:30%;
+}
+#anh0{
+    width: auto;
+    height: 100%;
+    position:absolute; 
+    left:0px; top:0px;
+    border: #CCFFFF;
+    border-style: groove;
+}
+#list
+{
+    color: #050404;
+    font-size: 55px;
+    position:absolute; 
+    left:52%; top:35%;
+}
+#Linkfb
+{
+    color: #050404;
+    /* font-size: 60px;
+    position:absolute; 
+    left:55%; top:60%; */
+}
+
+
+
+
+
